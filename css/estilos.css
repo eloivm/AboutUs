@@ -1,0 +1,11 @@
+h1 {
+    font-family: 'Teko', sans-serif;
+}
+
+p {
+    font-family: 'Kalam', sans-serif;
+}
+
+.imagen-redondeada{
+    border-radius: 0.25rem;
+}
